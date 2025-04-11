@@ -8,3 +8,5 @@ GitFlow inicializado.
 
 
 GitRebase e GitMerge
+
+Git stage
